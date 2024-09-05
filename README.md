@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Enrikassp/Enrikassp/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Enrikassp/Enrikassp/snake.yml" alt="Snake animation" />
 
 ###
 
